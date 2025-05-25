@@ -34,31 +34,11 @@
 
 ---
 
-
-
 ## 📫 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-dhotre)  
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitdhotre.dev@gmail.com) 
 - 🌍 Portfolio: Coming Soon
-- ## Contact
-
-
-
-
----
-
-## 🔥 My Projects
-
-Here are some of the projects I’ve worked on:
-
-- 🍛 [Sudama Pohe - Food Ordering Website](https://github.com/Rdxdhotre/food-delivery)  
-  A full-stack MERN app with Stripe payments, JWT authentication, role-based panels, and live order handling.
-
-- 🌐 [Portfolio Website](https://github.com/Rdxdhotre/portfolio)  
-  A personal portfolio showcasing skills, projects, and contact information with a modern, responsive UI.
-
-More projects coming soon... 🚧
 
 ---
 
