@@ -34,6 +34,16 @@
 
 ---
 
+
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-dhotre)
+- 💌 Email: rohitdhotre.dev@gmail.com 
+- 🌍 Portfolio: Coming Soon
+
+---
+
 ## 🔥 My Projects
 
 Here are some of the projects I’ve worked on:
@@ -45,15 +55,6 @@ Here are some of the projects I’ve worked on:
   A personal portfolio showcasing skills, projects, and contact information with a modern, responsive UI.
 
 More projects coming soon... 🚧
-
----
-
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-dhotre)
-- 💌 Email: rohitdhotre.dev@gmail.com 
-- 🌍 Portfolio: Coming Soon
 
 ---
 
