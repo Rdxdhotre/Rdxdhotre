@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohit Dhotre</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Computer Applications post graduate with a deep interest in web development and user interface design.  
-🛠️ I build responsive, modern websites using **React.js**, **Tailwind CSS**, **JavaScript**, and related technologies.  
-🚀 I’m currently expanding my knowledge in **full-stack development (MERN Stack)** and exploring backend integrations.  
-💼 Actively looking for frontend developer opportunities to contribute and grow in real-world projects.
+🎓 I'm a Computer Applications post graduate with a strong passion for full-stack web development.  
+🛠️ I build modern, scalable web applications using the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
+🚀 Currently diving deeper into **backend integrations**, **RESTful APIs**, and **cloud deployment** practices.  
+💼 Actively looking for opportunities as a **MERN Stack Developer** to work on impactful, real-world projects.
 
 ---
 
@@ -37,7 +37,7 @@
 ## 📫 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-dhotre)  
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitdhotre.dev@gmail.com) 
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitdhotre.dev@gmail.com)  
 - 🌍 Portfolio: Coming Soon
 
 ---
